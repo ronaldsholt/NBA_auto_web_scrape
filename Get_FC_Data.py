@@ -13,7 +13,7 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 import os.path
 
-current_directory = '/Users/kra7830/NBA_NN_DK/data_folder/'
+current_directory = '~/NBA_NN_DK/data_folder/'
 #final_directory = os.path.join(current_directory, r'data_folder')
 #if not os.path.exists(final_directory):
  #   os.makedirs(final_directory)
